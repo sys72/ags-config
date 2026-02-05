@@ -3,6 +3,6 @@
   "min_working_version": 30,
   "update_title": "Atualização Crítica",
   "update_message": "Atualize para continuar protegido.",
-  "update_url": "https://github.com/SEU_USUARIO/SEU_REPO/releases",
+  "update_url": "https://github.com/sys72/AGS-Hero-Releases/tags",
   "kill_switch_active": false
 }
