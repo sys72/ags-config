@@ -1,6 +1,6 @@
 {
   "latest_version_code": 30,
-  "min_working_version": 25,
+  "min_working_version": 30,
   "update_title": "Atualização Crítica",
   "update_message": "Atualize para continuar protegido.",
   "update_url": "https://github.com/SEU_USUARIO/SEU_REPO/releases",
